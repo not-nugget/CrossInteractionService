@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CrossInteractionService.Models
+namespace CrossInteractionService.Events.Rcon
 {
-    public class RconClient
+    public class UserWhitelistArgs
     {
+        public UserWhitelistArgs() { }
     }
 }

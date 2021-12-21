@@ -1,6 +1,6 @@
 ﻿using CrossInteractionService.Models.Enums;
 
-namespace CrossInteractionService.Events.Models
+namespace CrossInteractionService.Events.Twitch
 {
     public class ChannelStatusChangeEventArgs
     {

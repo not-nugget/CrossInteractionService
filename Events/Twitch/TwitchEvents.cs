@@ -1,7 +1,6 @@
-﻿using CrossInteractionService.Events.Models;
-using System;
+﻿using System;
 
-namespace CrossInteractionService.Events
+namespace CrossInteractionService.Events.Twitch
 {
     public class TwitchEvents
     {
